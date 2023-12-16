@@ -1,0 +1,90 @@
+body{
+    padding: 40px;
+}
+#section1{
+    border: 2px solid #000;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+#section1 h1{
+    color: #000;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+#section1 p{
+ color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.dog{
+    color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;
+}
+#setionc1 p{
+    color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+#section1 a{
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+#section2 h1{
+    color: #000;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+#setionc2 image{
+    width: 1051px;
+height: 762px;
+flex-shrink: 0;
+}
+#section3 ol{
+    color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+#section2 a{
+    color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration-line: underline;
+}
+#section3 h1{
+    color: #000;
+font-family: Inter;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration-line: underline;
+}
